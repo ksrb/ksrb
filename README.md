@@ -6,7 +6,7 @@ I probably spend too much time [fiddling](https://github.com/ksrb/.files) with I
 
 - 🌱 I’m currently getting confused in [Babylon.js](https://github.com/BabylonJS/Babylon.js)
 - ⚡ I'm constantly amazed by the developers in Github
-- 😅 I’m still figuring out how I feel about this Github profile README
+- 😅 I’m still figuring out how I feel about these Github stats
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
